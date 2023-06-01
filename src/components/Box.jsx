@@ -10,7 +10,7 @@ const Box = ({Name,ShortDesc}) => {
 
         <div className='px-2 py-3 space-y-3 '>
             <h1 className='font-bold'>{Name}</h1>
-            <h1 className='text-sm h-[250px]'>{ShortDesc}</h1>
+            <h1 className='text-sm h-[150px]'>{ShortDesc}</h1>
             <button className='border-2 border-gray-500 rounded-md px-2'>View</button>
         </div>
        </div>

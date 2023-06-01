@@ -4,7 +4,7 @@ import Box from './Box'
 const Body = () => {
   return (
     <div className='w-full mt-6'>
-      <div className='w-[60%] m-auto text-gray-500'>
+      <div className='w-[80%] m-auto text-gray-500'>
         <div className='text-center space-y-4'>
             <h1 className='text-3xl'>Classes</h1>
             <h1>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nam unde libero accusantium ab, corrupti dignissimos?</h1>
